@@ -130,7 +130,7 @@ I don't just learn technologies — I build with them. From deploying full-stack
 - 🔄 Issue/return tracking workflow
 - 📊 Analytics and reporting dashboard
   <br>
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6C63FF?style=for-the-badge)](https://github.com/adarshthakurwork620-web)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6C63FF?style=for-the-badge)](https://library-management-system-8brx.onrender.com)
 [![Source Code](https://img.shields.io/badge/📂_Source-181717?style=for-the-badge&logo=github)](https://github.com/adarshthakurwork620-web)
 
 </td>
