@@ -1,18 +1,124 @@
-# 💫 About Me:
-I am Adarsh, a Bachelor of Technology (B.Tech) CSE (Data Analytics) student, focused on developing strong programming and data analysis skills to solve real-world problems.
+# Hi 👋, I'm Adarsh Kumar Thakur
 
+### 🚀 B.Tech CSE (Data Analytics) Student | Full Stack Developer | Data Analytics Enthusiast | AI Explorer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adarshthakur_6/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-thakur-89a786392/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshthakurwork620@gmail.com) 
+🎓 Currently pursuing B.Tech in Computer Science & Engineering (Data Analytics) at SAGE University, Bhopal.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adarshthakurwork620-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adarshthakurwork620-web&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshthakurwork620-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am passionate about building real-world applications, analyzing data, and exploring Artificial Intelligence. My interests lie at the intersection of Software Development, Data Analytics, and AI-driven solutions.
+
+I enjoy transforming ideas into practical applications using modern technologies and continuously improving my problem-solving and development skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adarshthakurwork620-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🔹 B.Tech CSE (Data Analytics) Student (3rd Semester)
+
+🔹 Hands-on experience with Python, Data Analytics, and Full Stack Development
+
+🔹 Interested in AI, Machine Learning, Data Visualization, and Web Technologies
+
+🔹 Building projects that combine development, databases, and analytics
+
+🔹 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+Python • C++ • C • SQL • JavaScript
+
+### Data Analytics & Machine Learning
+
+Power BI • Pandas • NumPy • Matplotlib • Plotly • Scikit-Learn
+
+### Web Development
+
+HTML5 • CSS3 • React.js • Flask
+
+### Database
+
+PostgreSQL
+
+### Tools & Platforms
+
+Git • GitHub • VS Code • Canva
+
+### Deployment
+
+Render • Vercel
+
+---
+
+## 📊 Data Analytics Experience
+
+✔ Data Cleaning & Preprocessing
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Data Visualization
+
+✔ Dashboard Development
+
+✔ Business Insights Generation
+
+✔ Basic Machine Learning Workflows
+
+✔ Statistical Analysis
+
+### Featured Analytics Work
+
+📈 Sales Dashboard (Power BI)
+
+* Interactive dashboard creation
+* KPI tracking and visualization
+* Data-driven business insights
+* Report generation and analysis
+
+---
+
+## 🚀 Featured Projects
+
+### 🥗 AI Diet Consultant
+
+AI-powered diet recommendation platform that provides personalized meal plans, nutrition guidance, and health-focused recommendations using user preferences and data-driven insights.
+
+### 📚 Library Management System
+
+A database-driven system designed to manage books, users, issue/return records, and library operations efficiently.
+
+---
+
+## 🏆 Certifications
+
+✅ Power BI
+
+✅ Data Analytics
+
+✅ Generative AI
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced SQL
+* Machine Learning
+* Data Visualization
+* Full Stack Development
+* AI Applications
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/adarsh-thakur-89a786392/
+
+Email: adarshthakurwork620@gmail.com
+
+GitHub: github.com/adarshthakurwork620-web
+
+---
+
+### ⭐ Building. Learning. Improving. Every Day.
