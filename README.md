@@ -48,6 +48,7 @@ I don't just learn technologies — I build with them. From deploying full-stack
 | 💼 **Status** | Open to Internships & Collaborations |
 
 <br/>
+
 ---
 
 ## 🛠️ Tech Stack
